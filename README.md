@@ -1,6 +1,8 @@
 # Login Authentication
 
-Simple login authentication where users enter their email ID/username and password to log in to a site. 
+Simple login authentication form where users enter their email ID/username and password to log in to a site. 
+<br>
+<br>
 This project can be viewed [here](https://noelledons.github.io/login-authentication/).
 
 ## Demo
