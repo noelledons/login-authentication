@@ -1,4 +1,19 @@
-# login-authentication
+# Login Authentication
+
+This project can be viewed [here](https://noelledons.github.io/login-authentication/).
+
+## Summary
 Simple login form for webpage
 
-https://user-images.githubusercontent.com/73482293/107814371-b6c09480-6d69-11eb-8bb6-75e3a8849947.mov
+## Demo
+![login](https://user-images.githubusercontent.com/73482293/107816043-0bfda580-6d6c-11eb-8567-ee632c68f0ba.gif)
+
+## Languages Used
+- HTML
+- CSS
+- JavaScript
+
+## Other Technologies
+- Font Awesome
+- Google Fonts
+- Favicon
